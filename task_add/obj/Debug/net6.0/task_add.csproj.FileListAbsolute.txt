@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\hom1\task_add\obj\Debug\net6.0\task_add.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\hom1\task_add\obj\Debug\net6.0\task_add.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\hom1\task_add\obj\Debug\net6.0\task_add.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\hom1\task_add\obj\Debug\net6.0\task_add.AssemblyInfo.cs
+C:\Users\HP\Desktop\hom1\task_add\obj\Debug\net6.0\task_add.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\hom1\task_add\bin\Debug\net6.0\task_add.exe
+C:\Users\HP\Desktop\hom1\task_add\bin\Debug\net6.0\task_add.deps.json
+C:\Users\HP\Desktop\hom1\task_add\bin\Debug\net6.0\task_add.runtimeconfig.json
+C:\Users\HP\Desktop\hom1\task_add\bin\Debug\net6.0\task_add.dll
+C:\Users\HP\Desktop\hom1\task_add\bin\Debug\net6.0\task_add.pdb
+C:\Users\HP\Desktop\hom1\task_add\obj\Debug\net6.0\task_add.dll
+C:\Users\HP\Desktop\hom1\task_add\obj\Debug\net6.0\refint\task_add.dll
+C:\Users\HP\Desktop\hom1\task_add\obj\Debug\net6.0\task_add.pdb
+C:\Users\HP\Desktop\hom1\task_add\obj\Debug\net6.0\task_add.genruntimeconfig.cache
+C:\Users\HP\Desktop\hom1\task_add\obj\Debug\net6.0\ref\task_add.dll
